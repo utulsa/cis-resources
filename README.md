@@ -2,6 +2,10 @@
 
 ## Computer Information Systems Resources
 
+
+### [Click here to view the CIS course list](https://github.com/utulsa/cis)
+
+
 ### Aptana
 
 [Aptana](http://www.aptana.com/) is an open source development tool for web applications. You can use it to test your web application with support for the latest browser technology specifications such as HTML5, CSS3, JavaScript, Ruby, Rails, PHP, and Python. [Go to Apatana website.](http://www.aptana.com/)
