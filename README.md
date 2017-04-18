@@ -1,6 +1,6 @@
 # The University of Tulsa
 
-## Computer Information Systems Resources
+## Computer Information Systems Resources are awesome
 
 
 ### [Click here to view the CIS course list](https://github.com/utulsa/cis)
